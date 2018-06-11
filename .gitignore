@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+*.log
+
+.idea/
+package-lock.json
+Dockerfile
+LICENSE
+yarn.lock
+yarn.lock 2
+CHANGELOG.MD
+.npmignore
+docs
