@@ -1,6 +1,7 @@
 # VueElectronNeteaseMusic
 
-> An Simulated NeteaseCloudMusic Project within Vue and Electron.
+> A Simulated NeteaseCloudMusic Project Within Vue and Electron.  
+> Now this project is not finished,and i will keep updating.
 
 #### Build Setup
 
@@ -19,7 +20,6 @@ npm test or yarn test
 
 # lint all JS/Vue component files in `src/`
 npm run lint or yarn lint
-
 ```
 
 ## Linking
@@ -27,5 +27,4 @@ npm run lint or yarn lint
 + [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[7c4e3e9](https://github.com/SimulatedGREG/electron-vue/tree/7c4e3e90a772bd4c27d2dd4790f61f09bae0fcef) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
 + [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)@[Binaryify](https://github.com/Binaryify).Documentation about the original structure can be found [here](https://binaryify.github.io/NeteaseCloudMusicApi/#/).
 
-
-## Now this project is not finished yet.I will keep updating...
+The `NeteaseCloudMusicApi` is served on port:3000,please make sure it's working.
