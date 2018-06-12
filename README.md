@@ -1,6 +1,6 @@
 # VueElectronNeteaseMusic
 
-> An Vue Electron Project within Vue and Electron.
+> An Simulated NeteaseCloudMusic Project within Vue and Electron.
 
 #### Build Setup
 
