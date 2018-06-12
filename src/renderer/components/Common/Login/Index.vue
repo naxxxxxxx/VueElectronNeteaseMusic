@@ -38,8 +38,8 @@ export default {
   name: "login",
   data() {
     return {
-      phone: "13560484390",
-      password: "NaxWong920918",
+      phone: "",
+      password: "",
       checked: true,
       errTip: "",
       showMess: false
